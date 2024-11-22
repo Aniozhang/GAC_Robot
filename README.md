@@ -1,2 +1,2 @@
 # GAC_Robot
-This project targets on making a gesture-audio-controlled robot.
+This project aims to build a gesture-audio-controlled robot.
